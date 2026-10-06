@@ -1,75 +1,189 @@
 # Project 3 Years: The Philosophy of Young Love
 
-	Project 3 years is a that is an experiment for me. Its an open-source free to pay game that is oing to start developed as a solo project
+> **Project 3 Years** is a story-driven philosophy game about young love, personal growth, and the experiences that can change the way someone sees the world.
+>
+> It is a free-to-play, open-source game currently being developed as a solo project.
 
-## About
+---
 
-### what Project 3 Years is and what kind of game it is.
+## About the Project
 
-## Philosophy
+**Project 3 Years: The Philosophy of Young Love** is based on a three-year period of my life that I call my **“three years of hell.”**
 
-[Explain the main idea behind the project and what you want the player to think or feel.]
+The project is not simply about telling the player what happened. Its goal is to help the player **feel and understand** what the main character experienced.
 
-## Story
+The game explores:
 
-[Give a very short, spoiler-free overview of the story.]
+- **Young love**
+- **The desire to be loved**
+- **Heartbreak**
+- **Loneliness**
+- **Independence**
+- **The lessons we can learn from love, even when it does not become a relationship**
+
+**Project 3 Years is the beginning of a much bigger story.**
+
+---
+
+## The Main Character
+
+At the beginning of the game, the player meets a boy named **Vanilla Neko Miku**.
+
+Vanilla Neko Miku is a temporary character name and may be changed as development continues.
+
+Miku’s goal is simple:
+
+> **To be loved by someone.**
+
+The character and story are based on personal experiences, but the purpose of the game is to transform those experiences into something the player can experience and understand for themselves.
+
+---
+
+## The Story
+
+The story follows Miku through several important periods of his life.
+
+### Chapter 1
+
+Miku’s first crush and the background behind why love matters to him.
+
+### Chapter 2
+
+A two-year pursuit that ultimately leads to nothing.
+
+### Chapter 3
+
+Miku’s second crush and the day that changes not only how he lives, but also how he sees and understands the world.
+
+### Chapter 4
+
+The days after the heartbreak and the beginning of the three years.
+
+**The story is intended to become the beginning of something much bigger.**
+
+---
+
+## The Philosophy
+
+**Project 3 Years is not meant to be simply a dating game.**
+
+It is a **philosophy game about young love.**
+
+Young love does not always end with two people becoming a couple. Sometimes, what matters most is what the experience teaches you, how it changes you, and how you see the world afterward.
+
+The goal is for the player to **understand and feel the experience rather than simply being told about it.**
+
+---
 
 ## Development
 
-**Current Stage:** Pre-dev
+**Current Stage: Pre-dev**
 
-[Explain what you are currently working on.]
+Pre-dev is the stage where I am figuring out what needs to be made, learning, planning, testing, and creating documentation before moving into full development.
 
-## Development Stages
+The first development goal is a **terminal-based demo.**
 
-[Briefly list your planned stages.]
+### Development Progression
 
-- Pre-dev
-- Dev
-- Pre-alpha
-- Alpha
-- Pre-beta
-- Beta
-- Pre-release
-- Release
-- Post-release
+**Terminal → Graphics → Light 3D → Full 3D → Release**
 
-## Project Goals
+### Development Stages
 
-[List the major things you want to accomplish with the project.]
+1. **Pre-dev**
+2. **Dev**
+3. **Pre-alpha**
+4. **Alpha**
+5. **Pre-beta**
+6. **Beta**
+7. **Pre-release**
+8. **Release**
+9. **Post-release**
 
-- [Goal]
-- [Goal]
-- [Goal]
+---
 
-## Technical
+## Development Goals
 
-[Put information about programming languages, tools, engine, platforms, and other technical decisions here.]
+The project is intended to be a **major long-term challenge.**
 
-## Open Source
+It is currently planned as a high-school project, with the goal of reaching a major development milestone by the end of 12th grade.
 
-[Explain your intentions for the project being open source and how you want the community to interact with it.]
+One of the biggest challenges is eventually creating a game with **AAA-level ambition as a solo developer.**
 
-## Community
+> **The AAA challenge is the mountain; Miku is why I’m climbing it.**
 
-[Eventually put information about feedback, contributions, discussions, website, Reddit, etc. here.]
+---
 
-## Development Notes
+## Technology
 
-[Short notes about what you have recently worked on.]
+The current primary programming language is **C#**.
 
-## Status
+I am currently learning C# while developing the project.
 
-**Current version:** [version number]
+The project will use whatever additional technologies are needed as development progresses. The final technology stack has not been completely decided yet.
 
-**Current stage:** Pre-dev
+---
 
-**Development status:** [What is currently being worked on.]
+## AI
 
-## Credits
+AI is being used as a **development tool, not as a replacement for the developer.**
 
-[Your name/developer name and eventually anyone else who contributes.]
+I use AI to help generate and shape parts of this project, including writing this, but I work with it rather than simply accepting everything it produces.
 
-## License
+The ideas, experiences, decisions, and overall direction come from me. AI helps me express and organize my thoughts, while the project itself remains my work.
 
-[Leave this section empty for now, or write that the project currently has no license.]
+AI may be used for things such as:
+
+- **Debugging**
+- **Explaining concepts**
+- **Discussing ideas**
+- **Helping with problems**
+- **Learning**
+- **Helping express and organize my thoughts**
+
+The goal is to **understand the project and its code rather than simply copying AI-generated solutions.**
+
+---
+
+## Development Team
+
+**Project 3 Years is currently a solo project.**
+
+I am developing the project while also being a high-school student, so development time is limited.
+
+---
+
+## Open Source & Free
+
+**Project 3 Years is intended to be free and open-source.**
+
+The project is intended to have:
+
+- **No advertisements**
+- **No pay-to-win mechanics**
+- **No required purchase to experience the main game**
+- **No selling of personal data**
+
+The goal is for the project to exist because of the **experience, the love of coding, learning, and the community**, rather than because of monetization.
+
+The exact licensing structure is still being decided.
+
+---
+
+## Current Status
+
+| Category | Status |
+|---|---|
+| **Project** | Project 3 Years: The Philosophy of Young Love |
+| **Stage** | Pre-dev |
+| **Developer** | Solo |
+| **Primary Language** | C# |
+| **Current Development Goal** | Terminal-based demo |
+| **Status** | In development |
+
+---
+
+## Project Philosophy
+
+> **Free. Open-source. Player-first.**
+>
+> **The AAA challenge is the mountain; Miku is why I’m climbing it.**
