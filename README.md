@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there
+## Project 3 Years is a long-tream game project.
+## This is the frist time I made a real game and ever use github so sorry if its messy and stuff.
+## Little thing about me.
 
 <!--
 **Project-3-years/Project-3-years** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
