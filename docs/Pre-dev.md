@@ -37,6 +37,7 @@ By the end of pre-dev, I want to have a better understanding of:
 - Plan Chapter 0.
 - Determine what the player should experience and understand.
 - Develop the philosophy behind the game.
+- Establish **Manabu Ainokizu** as the main character.
 
 ### Programming
 
@@ -73,6 +74,7 @@ The prototype may include:
 - Basic branching
 - Saving information
 - The beginning of Chapter 0
+- Introduction of Manabu Ainokizu
 
 **The prototype does not need to represent the final quality of the game.**
 
@@ -96,6 +98,22 @@ Documentation may include:
 - Things that still need to be figured out
 
 The documentation is meant to help me understand the project, prepare for development, and keep track of its progress over time.
+
+---
+
+## Character Development
+
+### Manabu Ainokizu
+
+**Manabu Ainokizu** is the current and permanent name of the main character.
+
+The character was previously called **Vanilla Neko Miku** during the early planning and pre-dev stages.
+
+Vanilla Neko Miku was intended to be a temporary name. As the project developed, I became concerned about keeping the character name too closely associated with **Hatsune Miku** and wanted to avoid unnecessary intellectual property and identity concerns.
+
+The character was therefore renamed **Manabu Ainokizu**.
+
+This is the name that will be used for the character going forward.
 
 ---
 
