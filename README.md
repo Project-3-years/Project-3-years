@@ -2,7 +2,7 @@
 
 > **Project 3 Years** is a story-driven philosophy game about young love, personal growth, and the experiences that can change the way someone sees the world.
 >
-> It is a free-to-play, open-source game currently being developed as a solo project.
+> It is a free and open-source game currently being developed as a solo project.
 
 ---
 
@@ -27,11 +27,17 @@ The game explores:
 
 ## The Main Character
 
-At the beginning of the game, the player meets a boy named **Vanilla Neko Miku**.
+At the beginning of the game, the player meets a boy named **Manabu Ainokizu**.
 
-Vanilla Neko Miku is a temporary character name and may be changed as development continues.
+**Manabu Ainokizu is the permanent character name going forward.**
 
-Miku’s goal is simple:
+The character was previously named **Vanilla Neko Miku** during the early planning and pre-dev stages.
+
+Vanilla Neko Miku was intentionally a temporary name. As the project developed, I became concerned that keeping the name too closely associated with Miku could create unnecessary intellectual property and identity concerns, especially because of its connection to **Hatsune Miku**.
+
+The character has therefore been renamed **Manabu Ainokizu** to give the character a more distinct identity as the project continues.
+
+Manabu’s goal is simple:
 
 > **To be loved by someone.**
 
@@ -41,11 +47,11 @@ The character and story are based on personal experiences, but the purpose of th
 
 ## The Story
 
-The story follows Miku through several important periods of his life.
+The story follows Manabu through several important periods of his life.
 
 ### Chapter 1
 
-Miku’s first crush and the background behind why love matters to him.
+Manabu’s first crush and the background behind why love matters to him.
 
 ### Chapter 2
 
@@ -53,7 +59,7 @@ A two-year pursuit that ultimately leads to nothing.
 
 ### Chapter 3
 
-Miku’s second crush and the day that changes not only how he lives, but also how he sees and understands the world.
+Manabu’s second crush and the day that changes not only how he lives, but also how he sees and understands the world.
 
 ### Chapter 4
 
@@ -109,7 +115,7 @@ It is currently planned as a high-school project, with the goal of reaching a ma
 
 One of the biggest challenges is eventually creating a game with **AAA-level ambition as a solo developer.**
 
-> **The AAA challenge is the mountain; Miku is why I’m climbing it.**
+> **The AAA challenge is the mountain; Manabu is why I’m climbing it.**
 
 ---
 
@@ -186,4 +192,4 @@ The exact licensing structure is still being decided.
 
 > **Free. Open-source. Player-first.**
 >
-> **The AAA challenge is the mountain; Miku is why I’m climbing it.**
+> **The AAA challenge is the mountain; Manabu is why I’m climbing it.**
